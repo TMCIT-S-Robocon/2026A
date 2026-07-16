@@ -1,3 +1,9 @@
 [submodule "Pteromyini-00-PROTO-TYPE"]
 	path = Pteromyini-00-PROTO-TYPE
 	url = git@github.com:TMCIT-S-Robocon/Pteromyini-00-PROTO-TYPE.git
+[submodule "Firmware/kyou-solenoid-valve"]
+	path = Firmware/kyou-solenoid-valve
+	url = git@github.com:TMCIT-S-Robocon/kyou-solenoid-valve.git
+[submodule "Firmware/Shotacon-Receiver"]
+	path = Firmware/Shotacon-Receiver
+	url = git@github.com:TMCIT-S-Robocon/Shotacon-Receiver.git
