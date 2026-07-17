@@ -10,3 +10,6 @@
 [submodule "Firmware/MD12_Plot"]
 	path = Firmware/MD12_Plot
 	url = git@github.com:TMCIT-S-Robocon/MD12_Plot.git
+[submodule "Firmware/CANIMU"]
+	path = Firmware/CANIMU
+	url = git@github.com:TMCIT-S-Robocon/CANIMU2025.git
