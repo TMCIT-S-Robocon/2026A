@@ -13,3 +13,6 @@
 [submodule "Firmware/CANIMU"]
 	path = Firmware/CANIMU
 	url = git@github.com:TMCIT-S-Robocon/CANIMU2025.git
+[submodule "Pteromyini-01-Production-Model"]
+	path = Pteromyini-01-Production-Model
+	url = git@github.com:TMCIT-S-Robocon/Pteromyini-01-Production-Model.git
